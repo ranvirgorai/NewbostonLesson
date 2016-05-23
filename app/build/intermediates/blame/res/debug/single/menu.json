@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cool_menu.xml",
+        "source": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\src\\main\\res\\menu\\cool_menu.xml"
+    }
+]

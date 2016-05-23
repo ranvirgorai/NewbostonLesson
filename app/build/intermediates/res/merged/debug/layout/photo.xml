@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/ivReturnpic"
+        android:layout_width="fill_parent"
+        android:layout_height="320dp"
+        android:src="@drawable/ivimg" 
+        android:contentDescription="@string/btn"/>
+
+    <ImageButton
+        android:id="@+id/ibTakePic"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:src="@drawable/imgbtn" 
+        android:contentDescription="@string/btn"/>
+
+    <Button
+        android:id="@+id/bSetWall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnsetwall" />
+
+</LinearLayout>

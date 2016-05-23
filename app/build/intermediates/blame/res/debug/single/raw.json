@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\explosion.mp3",
+        "source": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\src\\main\\res\\raw\\explosion.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\splashsound.mp3",
+        "source": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\src\\main\\res\\raw\\splashsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\djvikash.mp3",
+        "source": "C:\\Users\\kumar\\AndroidStudioProjects\\TstApp\\app\\src\\main\\res\\raw\\djvikash.mp3"
+    }
+]

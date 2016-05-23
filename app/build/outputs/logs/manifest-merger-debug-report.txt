@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:2:1-144:12
+	package
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:20.0.0] C:\Users\kumar\AndroidStudioProjects\TstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\kumar\AndroidStudioProjects\TstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\kumar\AndroidStudioProjects\TstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:16:5-42
+	android:targetSdkVersion
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:16:5-142:19
+MERGED from [com.android.support:appcompat-v7:20.0.0] C:\Users\kumar\AndroidStudioProjects\TstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\kumar\AndroidStudioProjects\TstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] C:\Users\kumar\AndroidStudioProjects\TstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:18:9-45
+	android:theme
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.taple.tstapp.Splash
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:22:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.taple.tstapp.MainActivity
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:31:13-41
+intent-filter#android.intent.category.DEFAULT+com.taple.tstapp.MainActivity
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:33:13-37:29
+action#com.taple.tstapp.MainActivity
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:34:17-72
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:34:25-69
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:36:27-73
+activity#com.taple.tstapp.Menu
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:39:9-47:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:40:13-33
+intent-filter#android.intent.category.DEFAULT+com.taple.tstapp.Menu
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:42:13-46:29
+action#com.taple.tstapp.Menu
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:43:17-64
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:43:25-61
+activity#com.taple.tstapp.Prefs
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:48:10-56:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:49:13-34
+intent-filter#android.intent.category.DEFAULT+com.taple.tstapp.PREFS
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:51:13-55:29
+action#com.taple.tstapp.PREFS
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:52:17-65
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:52:25-62
+activity#com.taple.tstapp.AboutUs
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:57:9-66:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:59:13-42
+	android:theme
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:60:13-56
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:58:13-36
+intent-filter#android.intent.category.DEFAULT+com.taple.tstapp.ABOUT
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:61:13-65:29
+action#com.taple.tstapp.ABOUT
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:62:17-65
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:62:25-62
+activity#com.taple.tstapp.Textplay
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:67:9-70:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:69:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:68:13-37
+activity#com.taple.tstapp.Email
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:73:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:72:13-34
+activity#com.taple.tstapp.Camera
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:76:13-35
+activity#com.taple.tstapp.Data
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:81:13-33
+activity#com.taple.tstapp.GFX
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:84:11-87:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:85:13-32
+activity#com.taple.tstapp.OpenedClass
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:89:13-96:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:91:13-42
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:90:13-40
+intent-filter#android.intent.category.DEFAULT+com.taple.tstapp.OPENED
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:92:13-95:29
+action#com.taple.tstapp.OPENED
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:93:17-66
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:93:25-63
+activity#com.taple.tstapp.GFXSurface
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:97:11-100:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:98:13-39
+activity#com.taple.tstapp.SoundStuff
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:101:9-104:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:103:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:102:13-39
+activity#com.taple.tstapp.Slider
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:105:9-108:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:107:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:106:13-35
+activity#com.taple.tstapp.Tabs
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:109:9-112:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:111:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:110:13-33
+activity#com.taple.tstapp.SimpleBrowser
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:113:9-116:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:114:13-42
+activity#com.taple.tstapp.Flipper
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:117:9-120:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:119:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:118:13-36
+activity#com.taple.tstapp.SharedPrefs
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:121:10-124:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:123:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:122:13-40
+activity#com.taple.tstapp.InternalData
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:125:10-128:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:127:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:126:13-41
+activity#com.taple.tstapp.ExternalData
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:129:10-132:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:131:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:130:13-41
+activity#com.taple.tstapp.SQLiteExample
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:133:9-140:20
+	android:label
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:135:13-45
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:134:13-42
+intent-filter#android.intent.category.DEFAULT+com.taple.tstapp.SQLVIEW
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:136:14-139:29
+action#com.taple.tstapp.SQLVIEW
+ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:137:17-67
+	android:name
+		ADDED from C:\Users\kumar\AndroidStudioProjects\TstApp\app\src\main\AndroidManifest.xml:137:25-64

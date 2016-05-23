@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.taple.tstapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.taple.tstapp.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.taple.tstapp.MainActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Menu"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.taple.tstapp.Menu" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Prefs"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.taple.tstapp.PREFS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.AboutUs"
+            android:label="@string/abtus"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.taple.tstapp.ABOUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Textplay"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Email"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Camera"
+            android:label="Camera Application"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Data"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.GFX"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.OpenedClass"
+            android:label="@string/abtus" >
+            <intent-filter>
+                <action android:name="com.taple.tstapp.OPENED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.GFXSurface"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.SoundStuff"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Slider"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Tabs"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.SimpleBrowser"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.Flipper"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.SharedPrefs"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.InternalData"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.ExternalData"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.taple.tstapp.SQLiteExample"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.taple.tstapp.SQLVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

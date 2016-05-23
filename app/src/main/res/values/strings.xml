@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    
+    <string name="hello_world">Result = 0</string>
+    <string name="app_name">TstApp</string>
+    <string name="action_settings">Settings</string>
+<string android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/msgtxt" name="msgtxt">Add One</string>
+<string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="sub">subtract 1</string>
+<string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="txtvw">Invalid</string>
+<string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="togbtn">Push</string>
+<string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="btn">Click Here</string>
+<string android:id="@+id/string1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="phtxt">Enter Command</string>
+<string name="tvtxt">Email Address</string>
+<string name="tvtxt3">Persons name</string>
+<string name="tvtxt2">Hateful Intro</string>
+<string name="tvtxt4">Person Does</string>
+<string name="tvtxt5">What Want To Do</string>
+<string name="tvtxt6">Intro</string>
+<string name="sndbtn">Send Mail</string>
+<string name="btnsetwall">Set As Wallpapper</string>
+<string name="btnsnd">Sand</string>
+<string name="abtus">Abut Us</string>
+<string name="prftxt">Prefrences</string>
+<string name="abtme">I am Very cool, What About You ! What U doin Now ....</string>
+<string name="exitTxt">Exit</string>
+<string name="btnsv">SAVE</string>
+<string name="btnload">Load</string>
+<string name="tvloaddata">Load Your Data</string>
+<string name="name1">Name</string>
+<string name="hotness">Hotness Scale</string>
+
+
+</resources>
